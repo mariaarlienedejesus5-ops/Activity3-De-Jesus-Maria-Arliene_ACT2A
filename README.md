@@ -1,1 +1,0 @@
-# Activity3-De-Jesus-Maria-Arliene_ACT2A
