@@ -1,6 +1,6 @@
 <?php
 
-$grade = 49;
+$grade = 85;
 
 if ($grade >= 90 && $grade <= 100) {
     $letterGrade = "A";
